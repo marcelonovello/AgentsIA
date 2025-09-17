@@ -21,11 +21,11 @@ O notebook “Imersão Agentes de IA” permite:
 ---
 
 ✨ Demonstração Visual
-🔹 Notebook Aberto
-
-🔹 Execução de Experimento
+🔹 Configuração
+![Notebook](assets/configuracao.gif)
 
 🔹 Visualização de Resposta do Agente
+![Execução](assets/demonstracao_func.gif)
 
 ### ✨ Funcionalidades Principais
 - 🧠 Experimentos com agentes de IA
