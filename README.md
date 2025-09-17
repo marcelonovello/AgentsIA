@@ -2,7 +2,19 @@
 <div align="center"> <h1 align="center">🤖 Imersão Agentes de IA - Alura + Google Gemini</h1>
 Notebook de imersão em agentes de Inteligência Artificial desenvolvido em Python 3.12, integrando conceitos de IA generativa para aprendizado prático e experimentação de agentes inteligentes. Projeto modular, didático e interativo.
 
-<p align="center"> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> </a> <a href="https://platform.openai.com/"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> </a> <a href="./LICENSE"> <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat" /> </a> <img src="https://img.shields.io/github/stars/marcelonovello/AgentsIA?style=flat&logo=github" /> <img src="https://img.shields.io/github/forks/marcelonovello/AgentsIA?style=flat&logo=github" /> </p> </div>
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developers.google.com/gemini">
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat" />
+  </a>
+  <img src="https://img.shields.io/github/stars/marcelonovello/AgentsIA?style=flat&logo=github" />
+  <img src="https://img.shields.io/github/forks/marcelonovello/AgentsIA?style=flat&logo=github" />
+</p></div>
 
 ---
 
@@ -48,15 +60,30 @@ O notebook “Imersão Agentes de IA” permite:
 git clone https://github.com/marcelonovello/AgentsIA.git
 cd AgentsIA
 ```
-2️⃣ Instale as dependências:
+2️⃣ Crie e ative um ambiente virtual (recomendado)
+Windows (PowerShell):
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+Linux/macOS::
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+3️⃣ Installe as dependências:
 ```bash
 pip install -r requirements.txt
 ```
-3️⃣ Abra o notebook:
+4️⃣ Abra o Jupyter Notebook
+Opção 1 – Abrir interface do Jupyter e clicar no arquivo:
+```bash
+jupyter notebook
+```
+Opção 2 – Abrir diretamente o notebook:
 ```bash
 jupyter notebook "Imersão_Agentes_de_IA_Alura_+_Google_Gemini.ipynb"
 ```
-
 
 <a id="estrutura-do-projeto"></a>
 
