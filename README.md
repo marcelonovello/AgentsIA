@@ -90,6 +90,7 @@ jupyter notebook "Imersão_Agentes_de_IA_Alura_+_Google_Gemini.ipynb"
 🏗 Estrutura do Projeto
 ```sh
 └──📦 AgentsIA/
+    ├── 📂 assets/                                     # GIFs e imagens para README
     ├── 📄 README.md                                   # Documentação do projeto
     ├── 📄 LICENSE                                     # Licença MIT
     └── 📄 Imersão_Agentes_de_IA_Alura_+_Google_Gemini.ipynb   # Notebook principal
@@ -131,7 +132,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para colaborar com este p
 ```
 5. Envie para seu Fork:
   ```bash
-  git commit -m "Add feature X"
+  git push origin my-feature
   ```
 6. Abra um Pull Request (PR) para a branch main deste repositório.
  ```bash
